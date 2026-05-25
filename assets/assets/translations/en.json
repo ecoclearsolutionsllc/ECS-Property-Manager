@@ -285,5 +285,7 @@
   "building": "Building",
   "download": "Download",
   "import": "Import",
-  "unit": "Unit"
+  "unit": "Unit",
+  "employees": "Employees",
+  "live_tracking": "Live Tracking"
 }

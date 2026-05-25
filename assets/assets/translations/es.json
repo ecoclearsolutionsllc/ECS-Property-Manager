@@ -285,5 +285,7 @@
   "building": "Edificio",
   "download": "Descargar",
   "import": "Importar",
-  "unit": "Unidad"
+  "unit": "Unidad",
+  "employees": "Empleados",
+  "live_tracking": "Seguimiento en Vivo"
 }
