@@ -306,5 +306,15 @@
   "edit": "Editar",
   "delete_confirm_title": "Confirmar eliminación",
   "delete_confirm_msg": "¿Está seguro de que desea eliminar esta nota de servicio? Esta acción no se puede deshacer.",
-  "service_note_deleted": "Nota de servicio eliminada con éxito"
+  "service_note_deleted": "Nota de servicio eliminada con éxito",
+  "refresh": "Actualizar",
+  "check_in": "Registrar entrada",
+  "check_out": "Registrar salida",
+  "checked_in": "Entrada registrada",
+  "route_progress": "Progreso de la ruta",
+  "in_progress": "En progreso",
+  "scanned_history": "Historial de escaneo",
+  "working_on_service_progress": "Trabajando en el servicio ({scanned}/{total} completado)",
+  "just_started": "Recién comenzado",
+  "no_scanned_bins_yet": "No hay contenedores escaneados todavía"
 }

@@ -306,5 +306,15 @@
   "edit": "Edit",
   "delete_confirm_title": "Confirm Delete",
   "delete_confirm_msg": "Are you sure you want to delete this service note? This action cannot be undone.",
-  "service_note_deleted": "Service note deleted successfully"
+  "service_note_deleted": "Service note deleted successfully",
+  "refresh": "Refresh",
+  "check_in": "Check In",
+  "check_out": "Check Out",
+  "checked_in": "Checked In",
+  "route_progress": "Route Progress",
+  "in_progress": "In Progress",
+  "scanned_history": "Scanned History",
+  "working_on_service_progress": "Working on service ({scanned}/{total} completed)",
+  "just_started": "Just started",
+  "no_scanned_bins_yet": "No bins scanned yet"
 }
