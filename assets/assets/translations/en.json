@@ -311,10 +311,21 @@
   "check_in": "Check In",
   "check_out": "Check Out",
   "checked_in": "Checked In",
-  "route_progress": "Route Progress",
+  "route_progress": "Route QR Progress",
   "in_progress": "In Progress",
   "scanned_history": "Scanned History",
   "working_on_service_progress": "Working on service ({scanned}/{total} completed)",
   "just_started": "Just started",
-  "no_scanned_bins_yet": "No bins scanned yet"
+  "no_scanned_bins_yet": "No bins scanned yet",
+  "task_progress": "Route Task Progress",
+  "task_completed_history": "Task Completed History",
+  "all_tasks_completed": "All tasks completed",
+  "tasks_of_done": "{completed} of {total} tasks done",
+  "tasks_not_yet_started": "Tasks not yet started",
+  "no_tasks_for_today": "No tasks for today",
+  "n_tasks": "{count} tasks",
+  "no_tasks_completed_yet": "No tasks completed yet",
+  "start": "Start",
+  "total": "Total",
+  "loading": "Loading..."
 }

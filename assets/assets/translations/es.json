@@ -311,10 +311,21 @@
   "check_in": "Registrar entrada",
   "check_out": "Registrar salida",
   "checked_in": "Entrada registrada",
-  "route_progress": "Progreso de la ruta",
+  "route_progress": "Progreso QR de la ruta",
   "in_progress": "En progreso",
   "scanned_history": "Historial de escaneo",
   "working_on_service_progress": "Trabajando en el servicio ({scanned}/{total} completado)",
   "just_started": "Recién comenzado",
-  "no_scanned_bins_yet": "No hay contenedores escaneados todavía"
+  "no_scanned_bins_yet": "No hay contenedores escaneados todavía",
+  "task_progress": "Progreso de tareas ruta",
+  "task_completed_history": "Historial de tareas completadas",
+  "all_tasks_completed": "Todas las tareas completadas",
+  "tasks_of_done": "{completed} de {total} tareas realizadas",
+  "tasks_not_yet_started": "Tareas no iniciadas aún",
+  "no_tasks_for_today": "Sin tareas para hoy",
+  "n_tasks": "{count} tareas",
+  "no_tasks_completed_yet": "Sin tareas completadas aún",
+  "start": "Inicio",
+  "total": "Total",
+  "loading": "Cargando..."
 }
