@@ -323,6 +323,8 @@
   "tasks_of_done": "{completed} de {total} tareas realizadas",
   "tasks_not_yet_started": "Tareas no iniciadas aún",
   "no_tasks_for_today": "Sin tareas para hoy",
+  "no_qrs_assigned_today": "No hay QRs asignados hoy",
+  "no_tasks_assigned_today": "No hay tareas asignadas hoy",
   "n_tasks": "{count} tareas",
   "no_tasks_completed_yet": "Sin tareas completadas aún",
   "start": "Inicio",
