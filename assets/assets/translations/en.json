@@ -349,5 +349,6 @@
   "perm_property_check_out": "Property Check-Out",
   "perm_property_check_out_desc": "Notify when checking out from a property.",
   "perm_create_violation": "Create Violation",
-  "perm_create_violation_desc": "Notify immediately when a new violation is created."
+  "perm_create_violation_desc": "Notify immediately when a new violation is created.",
+  "admin_property_notes": "Admin Property Notes"
 }

@@ -348,6 +348,7 @@
   "perm_property_check_in_desc": "Notificar al registrar la entrada a una propiedad.",
   "perm_property_check_out": "Salida de la Propiedad",
   "perm_property_check_out_desc": "Notificar al registrar la salida de una propiedad.",
-  "perm_create_violation": "Crear Infracción",
-  "perm_create_violation_desc": "Notificar inmediatamente cuando se registre una nueva infracción."
+  "perm_create_violation": "Crear infracción",
+  "perm_create_violation_desc": "Notificar inmediatamente cuando se registre una nueva infracción.",
+  "admin_property_notes": "Notas de la propiedad (Admin)"
 }
