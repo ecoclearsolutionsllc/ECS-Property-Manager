@@ -34022,14 +34022,13 @@ a6w:function a6w(a,b){this.a=a
 this.b=b},
 auE:function auE(a,b){this.a=a
 this.b=b},
-O1:function O1(a,b,c,d,e){var _=this
+O1:function O1(a,b,c,d){var _=this
 _.c=a
 _.at=_.Q=_.z=_.y=_.x=_.w=_.r=$
-_.ax=b
-_.ch=c
+_.ch=b
 _.dx=$
-_.id=d
-_.a=e},
+_.id=c
+_.a=d},
 T3:function T3(a,b,c){var _=this
 _.e=_.d=$
 _.f=!1
@@ -65222,7 +65221,7 @@ A.f4(3,"retries")
 q=t.N
 r=new A.aFa(r,!0,A.A(q,q))
 q=$.bqm()
-r=new A.O1("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",B.b0d,r,q,o)
+r=new A.O1("https://tile.openstreetmap.org/{z}/{x}/{y}.png",r,q,o)
 r.dx=B.beZ
 r.y=1/0
 r.Q=19
@@ -125582,7 +125581,7 @@ p.l(0,"x",B.n.j(r))
 q=b.b
 p.l(0,"y",B.n.j(q))
 p.l(0,"z",B.l.j(s))
-r=c.ax[B.n.bi(r+q,4)]
+r=B.b0d[B.n.bi(r+q,3)]
 p.l(0,"s",r)
 r=c.dx
 r===$&&A.a()
@@ -149134,7 +149133,7 @@ B.b0a=s(["Die","H\xebn","Mar","M\xebr","Enj","Pre","Sht"],t.s)
 B.b0b=s(["\u043c\u0430\u043d\u0430\u0439 \u044d\u0440\u0438\u043d\u0438\u0439 \u04e9\u043c\u043d\u04e9\u0445","\u043c\u0430\u043d\u0430\u0439 \u044d\u0440\u0438\u043d\u0438\u0439"],t.s)
 B.Lj=s(["\u05d9\u05d5\u05dd \u05e8\u05d0\u05e9\u05d5\u05df","\u05d9\u05d5\u05dd \u05e9\u05e0\u05d9","\u05d9\u05d5\u05dd \u05e9\u05dc\u05d9\u05e9\u05d9","\u05d9\u05d5\u05dd \u05e8\u05d1\u05d9\u05e2\u05d9","\u05d9\u05d5\u05dd \u05d7\u05de\u05d9\u05e9\u05d9","\u05d9\u05d5\u05dd \u05e9\u05d9\u05e9\u05d9","\u05d9\u05d5\u05dd \u05e9\u05d1\u05ea"],t.s)
 B.Lk=s([80,88,23,71,30,30,62,62,4,4,4,4,4,4,4,4,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,35,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,51,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41,41],t.t)
-B.b0d=s(["a","b","c","d"],t.s)
+B.b0d=s(["a","b","c"],t.s)
 B.p6=s(["\u0930","\u0938\u094b","\u092e\u0902","\u092c\u0941","\u0917\u0941","\u0936\u0941","\u0936"],t.s)
 B.b0g=s(["\u0d1e\u0d3e\u0d2f\u0d31\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d24\u0d3f\u0d19\u0d4d\u0d15\u0d33\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d1a\u0d4a\u0d35\u0d4d\u0d35\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d2c\u0d41\u0d27\u0d28\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d35\u0d4d\u0d2f\u0d3e\u0d34\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d35\u0d46\u0d33\u0d4d\u0d33\u0d3f\u0d2f\u0d3e\u0d34\u0d4d\u200c\u0d1a","\u0d36\u0d28\u0d3f\u0d2f\u0d3e\u0d34\u0d4d\u200c\u0d1a"],t.s)
 B.b0h=s([35,30,20,25,30,35,30,25,25],t.n)
